@@ -1,0 +1,4 @@
+<html>
+<canvas id="canvas"></canvas>
+<div id="go">[ CLICK/TAP TO DRAW ]</div>
+</html>
